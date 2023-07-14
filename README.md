@@ -1,7 +1,7 @@
 # Introduction_packages_in_Py
 Bài thuyết trình giới thiệu về tính ứng dụng của các thư viện trong python
 
-![](https://github.com/huyvu15/Introduction_packages_in_Py/packages.png)
+![Title](https://github.com/huyvu15/Introduction_packages_in_Py/blob/main/Packages.png)
 
 > Xử lý trực quan dữ liệu
  
