@@ -3,7 +3,7 @@ Bài thuyết trình giới thiệu về tính ứng dụng của các thư vi�
 
 ![Title](https://github.com/huyvu15/Introduction_packages_in_Py/blob/main/Packages.png)
 
-Nội dung phần trình bày bao gồm:
+Nội dung phần trình bày bao gồm giới thiệu các thư viện:
 
 > Xử lý trực quan dữ liệu
  
